@@ -8,7 +8,8 @@
 
 \title{Nonpareil.Curve S4 class}
 \description{A single Nonpareil curve. This object can be produced by `Nonpareil.curve`
-and supports S4 methods `plot`, `summary`, `print`, and `predict`}
+and supports S4 methods `plot`, `summary`, `print`, and `predict`.
+For additional details, see help for `summary.Nonpareil.Curve`}
 \section{Objects from the Class}{Objects can be created by calls of the form \code{new(Nonpareil.Curve ...)}}
 \section{Slots}{
   \describe{

@@ -16,7 +16,7 @@ legend is not displayed}
   \item{\dots}{Any additional parameters passed to `plot.Nonpareil.Curve`}
 }
 
-\value{Returns invisibly a `Nonpareil.Set` object (same as `x` input)}
+\value{Returns invisibly a `Nonpareil.Set` object (same as `x` input).}
 
 \author{Luis M. Rodriguez-R [aut, cre]}
 

@@ -8,7 +8,8 @@
   \item{\dots}{Additional parameters ignored}
 }
 
-
+\value{Returns the summary invisibly. See help for `summary.Nonpareil.Curve` and
+`summary.Nonpareil.Set` for additional information}
 
 \author{Luis M. Rodriguez-R [aut, cre]}
 

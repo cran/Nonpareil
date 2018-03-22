@@ -8,7 +8,7 @@
   \item{np}{`Nonpareil.Curve` object}
 }
 
-
+\value{Returns the `Nonpareil.Set` including the added `Nonpareil.Curve`}
 
 \author{Luis M. Rodriguez-R [aut, cre]}
 

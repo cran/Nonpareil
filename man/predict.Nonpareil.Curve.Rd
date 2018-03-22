@@ -9,7 +9,7 @@
   \item{\dots}{Additional parameters ignored}
 }
 
-
+\value{Returns the expected coverage at the given sequencing effort.}
 
 \author{Luis M. Rodriguez-R [aut, cre]}
 

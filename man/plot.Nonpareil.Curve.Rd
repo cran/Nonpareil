@@ -49,7 +49,8 @@ display the diversity index (in inches).}
   \item{\dots}{Additional graphical parameters}
 }
 
-\value{Retuns invisibly a `Nonpareil.Curve` object (same as `x` input)}
+\value{Retuns invisibly a `Nonpareil.Curve` object (same as `x` input). For
+additional details see help for `summary.Nonpareil.Curve`}
 
 \author{Luis M. Rodriguez-R [aut, cre]}
 

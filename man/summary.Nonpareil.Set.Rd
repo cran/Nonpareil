@@ -8,7 +8,8 @@
   \item{\dots}{Additional parameters ignored}
 }
 
-
+\value{Returns a matrix with different values for each dataset. For additional
+details on the values returned, see help for `summary.Nonpareil.Curve`}
 
 \author{Luis M. Rodriguez-R [aut, cre]}
 
