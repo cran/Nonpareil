@@ -510,7 +510,8 @@ Nonpareil.col <- function(
 Nonpareil.legend <- function(
       ### Generates a legend for Nonpareil plots
       np,
-      ### A `Nonpareil.Set` object or a list of `Nonpareil.Curve` objects
+      ### A `Nonpareil.Set` or `Nonpareil.Curve` object, or a list of
+      ### `Nonpareil.Curve` objects
       x,
       ### X coordinate, or any character string accepted by legend (e.g.,
       ### 'bottomright').
@@ -520,8 +521,10 @@ Nonpareil.legend <- function(
       ### Any other parameters supported by legend().
       ){
   if(inherits(np, "Nonpareil.Set")) np <- np$np.curves
+  if(inherits(np, "Nonpareil.Curve")) np <- list(np)
   if(!inherits(np, "list"))
-    stop("'np' must inherit from `list` or class `Nonpareil.Set`")
+    stop("'np' must inherit from `list` or class `Nonpareil.Set` or `Nonpareil.Curve`")
+  if(missing(x)) x <- 'bottomright'
 
   labels <- sapply(np, function(x) x$label)
   cols <- sapply(np, Nonpareil.col)

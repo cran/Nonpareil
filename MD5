@@ -1,6 +1,6 @@
-dd7ab66480ae875e16e699e482fa5cd9 *DESCRIPTION
+b301e1ad12ad7766163b3e3121683def *DESCRIPTION
 34cca00159627937960ee2a2cdd1d2db *NAMESPACE
-cfea674b1889946ebf7ea4c045bd4a69 *R/Nonpareil.R
+3faa2f4d1510050c50b8cb37b5c1b1dd *R/Nonpareil.R
 95171cc307cc6be5be2b3b8b149168c6 *inst/extdata/HumanGut.npo
 a6ddf06a8d1050675cf42915d7ff2e61 *inst/extdata/IowaSoil.npo
 098879ed84ac84241390380167649040 *inst/extdata/LakeLanier.npo
@@ -14,7 +14,7 @@ efba49282e7631f8392c073bece33008 *man/Nonpareil.coverage_factor.Rd
 ea7d2a79bf07be18a9b2e918832fccbf *man/Nonpareil.curve.batch.Rd
 a84a233f7cb10049e3501034235bdf76 *man/Nonpareil.f.Rd
 ee15088693cc827436b46acb0a29d453 *man/Nonpareil.fit_model.Rd
-f55f43524e86b59e3ab0bcd122a39de8 *man/Nonpareil.legend.Rd
+e1780d2784c162a942718fe2a40000ad *man/Nonpareil.legend.Rd
 56366fb97254bb5a88e732fdcaf2c0c0 *man/Nonpareil.read_data.Rd
 5a856ff756ac19ac6b495ec8514011cd *man/Nonpareil.read_metadata.Rd
 8819296a9f0e04f525856d3d26cfe08e *man/Nonpareil.set.Rd
