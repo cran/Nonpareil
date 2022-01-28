@@ -1,11 +1,11 @@
-1ec68ad919ef4f8610c8af907c5fdf5d *DESCRIPTION
+e1ba85411cbb69d598395c9895be9ed1 *DESCRIPTION
 34cca00159627937960ee2a2cdd1d2db *NAMESPACE
-8dd65d16716496a16465f886bc9f8634 *R/Nonpareil.R
+7f8e731b2b86b51a3ce6539539322f86 *R/Nonpareil.R
 95171cc307cc6be5be2b3b8b149168c6 *inst/extdata/HumanGut.npo
 a6ddf06a8d1050675cf42915d7ff2e61 *inst/extdata/IowaSoil.npo
 098879ed84ac84241390380167649040 *inst/extdata/LakeLanier.npo
 5cc2cbe33f8d7716b948a9d20d211922 *man/Nonpareil.Curve-class.Rd
-98bc282a3570af3734d32f528f5b470f *man/Nonpareil.Rd
+0164ea991604845f5b3fd65b9106a21a *man/Nonpareil.Rd
 afd71542ea8a60887eb47235ba3c9090 *man/Nonpareil.Set-class.Rd
 f33aa12a284a420d2b2287dbd95ce77f *man/Nonpareil.add.curve.Rd
 f20b306d31b70db8c89a0a26e2a7449b *man/Nonpareil.antif.Rd
